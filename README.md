@@ -41,7 +41,7 @@ pyinstaller --noconfirm --onefile --windowed window.py -i icon.ico
 ├── window.py
 ├── icon.ico
 ├── README.md
-└── dist/
+└── LICENSE
 ```
 
 ## Лицензия
